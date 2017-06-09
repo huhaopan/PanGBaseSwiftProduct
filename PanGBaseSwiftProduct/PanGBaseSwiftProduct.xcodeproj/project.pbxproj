@@ -66,11 +66,11 @@
 				38DF93CB1EE9599C003553B6 /* Assets.xcassets */,
 				38DF93CD1EE9599C003553B6 /* LaunchScreen.storyboard */,
 				38DF93D01EE9599C003553B6 /* Info.plist */,
+				38DF93F11EE959DE003553B6 /* Personal */,
 				38DF93D61EE959DE003553B6 /* Category */,
 				38DF93DE1EE959DE003553B6 /* Discover */,
 				38DF93E61EE959DE003553B6 /* Home */,
 				38DF93EE1EE959DE003553B6 /* Others */,
-				38DF93F11EE959DE003553B6 /* Personal */,
 			);
 			path = PanGBaseSwiftProduct;
 			sourceTree = "<group>";
@@ -544,6 +544,7 @@
 				38DF93D51EE9599C003553B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
